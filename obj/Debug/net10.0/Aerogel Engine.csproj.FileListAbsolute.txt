@@ -1,0 +1,14 @@
+d:\Project\Aerogel Engine\Build\Debug\net10.0\Aerogel Engine.exe
+d:\Project\Aerogel Engine\Build\Debug\net10.0\Aerogel Engine.deps.json
+d:\Project\Aerogel Engine\Build\Debug\net10.0\Aerogel Engine.runtimeconfig.json
+d:\Project\Aerogel Engine\Build\Debug\net10.0\Aerogel Engine.dll
+d:\Project\Aerogel Engine\Build\Debug\net10.0\Aerogel Engine.pdb
+d:\Project\Aerogel Engine\obj\Debug\net10.0\Aerogel Engine.GeneratedMSBuildEditorConfig.editorconfig
+d:\Project\Aerogel Engine\obj\Debug\net10.0\Aerogel Engine.AssemblyInfoInputs.cache
+d:\Project\Aerogel Engine\obj\Debug\net10.0\Aerogel Engine.AssemblyInfo.cs
+d:\Project\Aerogel Engine\obj\Debug\net10.0\Aerogel Engine.csproj.CoreCompileInputs.cache
+d:\Project\Aerogel Engine\obj\Debug\net10.0\Aerogel Engine.dll
+d:\Project\Aerogel Engine\obj\Debug\net10.0\refint\Aerogel Engine.dll
+d:\Project\Aerogel Engine\obj\Debug\net10.0\Aerogel Engine.pdb
+d:\Project\Aerogel Engine\obj\Debug\net10.0\Aerogel Engine.genruntimeconfig.cache
+d:\Project\Aerogel Engine\obj\Debug\net10.0\ref\Aerogel Engine.dll
