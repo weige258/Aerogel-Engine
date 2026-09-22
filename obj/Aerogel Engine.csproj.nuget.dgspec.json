@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Project\\Aerogel Engine\\Aerogel Engine.csproj": {}
+    "D:\\Project\\Aerogel Engine\\Aerogel Engine.csproj": {}
   },
   "projects": {
-    "d:\\Project\\Aerogel Engine\\Aerogel Engine.csproj": {
+    "D:\\Project\\Aerogel Engine\\Aerogel Engine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Project\\Aerogel Engine\\Aerogel Engine.csproj",
+        "projectUniqueName": "D:\\Project\\Aerogel Engine\\Aerogel Engine.csproj",
         "projectName": "Aerogel Engine",
-        "projectPath": "d:\\Project\\Aerogel Engine\\Aerogel Engine.csproj",
+        "projectPath": "D:\\Project\\Aerogel Engine\\Aerogel Engine.csproj",
         "packagesPath": "C:\\Users\\wei\\.nuget\\packages\\",
-        "outputPath": "d:\\Project\\Aerogel Engine\\obj\\",
+        "outputPath": "D:\\Project\\Aerogel Engine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

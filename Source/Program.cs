@@ -1,1 +1,5 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using AerogelEngine.Engine;
+
+
+var engine = new Engine();
+engine.Run();

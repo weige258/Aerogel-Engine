@@ -12,3 +12,4 @@ d:\Project\Aerogel Engine\obj\Debug\net10.0\refint\Aerogel Engine.dll
 d:\Project\Aerogel Engine\obj\Debug\net10.0\Aerogel Engine.pdb
 d:\Project\Aerogel Engine\obj\Debug\net10.0\Aerogel Engine.genruntimeconfig.cache
 d:\Project\Aerogel Engine\obj\Debug\net10.0\ref\Aerogel Engine.dll
+d:\Project\Aerogel Engine\obj\Debug\net10.0\Aerogel Engine.sourcelink.json
