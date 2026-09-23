@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aerogel Engine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c15a8ce34ccdace19dc996139958ea07e2f55687")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d9adaf8845b90e172b51b5a1d666992b75adc27")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aerogel Engine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aerogel Engine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
